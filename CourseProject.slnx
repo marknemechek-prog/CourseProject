@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Database/">
+    <File Path="init.sql" />
+  </Folder>
   <Project Path="Client/ClientApp/ClientApp.csproj" />
   <Project Path="ServerApp/ServerApp.csproj" />
 </Solution>
